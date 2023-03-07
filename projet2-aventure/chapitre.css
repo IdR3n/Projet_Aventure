@@ -1,0 +1,15 @@
+a.chapitre-style{
+    text-decoration: none;
+    color:red;
+}
+
+a.chapitre-style:hover{
+    color: white;
+    text-shadow:black;
+}
+.chapitre-list{
+    display: inline-flex;
+    grid-template-columns: auto auto auto;
+    grid-gap: 50px;
+    padding: 30px;   
+}
